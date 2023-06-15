@@ -8,6 +8,7 @@
 <title>Guru current Date</title>
 </head>
 <body>
+Yanir Nachshon & Yarin Naftali <br/>
 Today's date: <%= (new java.util.Date()).toLocaleString()%>
 </body>
 </html>
