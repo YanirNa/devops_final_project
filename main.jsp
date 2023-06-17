@@ -11,6 +11,6 @@
 Yanir Nachshon & Yarin Naftali <br/>
 Today's date: <%= (new java.util.Date()).toLocaleString()%>
 <br/> 
-Update to test CI/CD
+Update to test CI/CD. Test 2.
 </body>
 </html>
