@@ -5,10 +5,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Guru current Date</title>
+<title>Ya(nir+rin) CI/CD</title>
 </head>
 <body>
-Yanir Nachshon & Yarin Naftali <br/>
+<h1>Yanir Nachshon & Yarin Naftali</h1>
+<br/>
 Today's date: <%= (new java.util.Date()).toLocaleString()%>
 <br/> 
 Update to test CI/CD. Test 2.
