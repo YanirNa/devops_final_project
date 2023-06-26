@@ -12,7 +12,7 @@
 <br/>
 Today's date: <%= (new java.util.Date()).toLocaleString()%>
 <br/> 
-
+Ziv Hagever
 
 </body>
 </html>
