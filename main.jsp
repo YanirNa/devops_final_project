@@ -12,6 +12,7 @@
 <br/>
 Today's date: <%= (new java.util.Date()).toLocaleString()%>
 <br/> 
+Shalom from commit 
 
 </body>
 </html>
